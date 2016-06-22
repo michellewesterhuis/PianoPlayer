@@ -1,0 +1,16 @@
+body {
+	margin: 0 auto;
+}
+
+
+#piano {
+	background-image:url(toetsen.png);
+	width: 1099px;
+	height:  346px;
+	margin-top: 15%;
+	margin-left: 10%;
+}
+
+
+
+
